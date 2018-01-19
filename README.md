@@ -13,7 +13,7 @@ Add the following to your composer.json
 ```js
 {
     "require": {
-        "pksunkara/buffer-alpaca": "*"
+        "cloudkserg/buffer-alpaca": "*"
     }
 }
 ```
@@ -26,9 +26,6 @@ $ php composer.phar update
 
 > This package follows the `PSR-0` convention names for its classes, which means you can easily integrate these classes loading in your own autoloader.
 
-#### Versions
-
-Works with [ 5.4 / 5.5 ]
 
 ## Usage
 
