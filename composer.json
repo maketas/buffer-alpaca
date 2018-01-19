@@ -1,5 +1,6 @@
 {
 	"name": "cloudkserg/buffer-alpaca",
+	"version": "0.1.0",
 	"autoload": {
 		"psr-0": {
 			"Buffer\\": "lib/"
