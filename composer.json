@@ -1,16 +1,5 @@
 {
 	"name": "cloudkserg/buffer-alpaca",
-	"version": "0.1.0",
-	"description": "Buffer API library client for PHP",
-	"homepage": "https://bufferapp.com",
-	"authors": [
-		{
-			"name": "Pavan Kumar Sunkara",
-			"email": "pavan.sss1991@gmail.com",
-			"homepage": "http://github.com/pksunkara"
-		}
-	],
-	"keywords": ["alpaca", "buffer", "api", "client", "library"],
 	"autoload": {
 		"psr-0": {
 			"Buffer\\": "lib/"
