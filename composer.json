@@ -1,0 +1,8 @@
+{
+    "name": "cloudkserg/buffer-alpaca",
+    "version": "0.1.0",
+	"require": {
+		"ext-json": "*",
+		"guzzle/guzzle": "3.7.*"
+	},
+}
