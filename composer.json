@@ -10,9 +10,14 @@
                 }
    
     ],
-    "version": "0.1.0",
+	"autoload": {
+		"psr-0": {
+			"Buffer\\": "lib/"
+		}
+	},
 	"require": {
 		"ext-json": "*",
 		"guzzle/guzzle": "3.7.*"
-	}
+	},
+	"license": "MIT"
 }
