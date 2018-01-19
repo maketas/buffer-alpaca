@@ -1,5 +1,5 @@
 {
-	"name": "pksunkara/buffer-alpaca",
+	"name": "cloudkserg/buffer-alpaca",
 	"version": "0.1.0",
 	"description": "Buffer API library client for PHP",
 	"homepage": "https://bufferapp.com",
@@ -19,9 +19,6 @@
 	"require": {
 		"ext-json": "*",
 		"guzzle/guzzle": "3.7.*"
-	},
-	"support": {
-		"issues": "https://github.com/alpaca-api/buffer-php/issues"
 	},
 	"license": "MIT"
 }
