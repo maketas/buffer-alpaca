@@ -1,12 +1,12 @@
 {
-    "name": "cloudkserg/buffer-alpaca",
+    "name": "maketas/buffer-alpaca",
     "license": "MIT",
     "type": "project",
     "authors": [
                 {
-                        "name": "Pavan Kumar Sunkara",
-                        "email": "pavan.sss1991@gmail.com",
-                        "homepage": "http://github.com/pksunkara"
+                        "name": "David",
+                        "email": "david@teluria.es",
+                        "homepage": "http://github.com/maketas"
                 }
    
     ],
