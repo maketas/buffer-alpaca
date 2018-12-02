@@ -104,6 +104,12 @@ class HttpClient
 
         unset($options['base']);
         unset($options['user_agent']);
+        
+       	if ( isset( $options['query']['media'] ) )
+        {
+            $body['media'] = $options['query']['media'];
+            unset( $options['media'] );
+        }
 
         $request = $this->createRequest($httpMethod, $path, null, $headers, $options);
 
