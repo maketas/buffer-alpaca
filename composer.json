@@ -17,7 +17,7 @@
 	},
 	"require": {
 		"ext-json": "*",
-		"guzzlehttp/guzzle": "*"
+		"guzzle/guzzle": "*"
 	},
 	"license": "MIT"
 }
